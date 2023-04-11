@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Merhaba, ben Batuhan ÖZKAN! 
+👋 Merhaba, ben Batuhan ÖZKAN! </br>
 🚀 Yazılım geliştirme alanında bilgili ve tutkulu biriyim. </br>
 💻 Ana ilgi alanlarım arasında C#, ASP.NET, Entity Framework Core, React.js, JavaScript, HTML5 ve Bootstrap bulunmaktadır.</br>
 🔍 Yeni teknolojileri öğrenmek ve uygulamak için hevesliyim. </br>
