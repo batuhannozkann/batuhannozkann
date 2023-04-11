@@ -7,7 +7,7 @@
 🤝 Takım çalışmasına uygun, proaktif ve sürekli kendini geliştiren biriyim. </br>
 👨‍💻 Github profilimdeki projelerimi keşfedin ve benimle bağlantı kurmak için çekinmeyin!</br>
 <hr>
-👋 Hello,I'm Batuhan Özkan! </br>
+👋 Hello,I'm Batuhan ÖZKAN! </br>
 🚀 I'm a knowledgeable and passionate software developer. </br>
 💻 My main interests include C#, ASP.NET, Entity Framework Core, React.js, JavaScript, HTML5, and Bootstrap.</br>
 🔍 I'm eager to learn and implement new technologies. </br>
