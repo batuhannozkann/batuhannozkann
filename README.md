@@ -1,16 +1,18 @@
 ### Hi there 👋
+👋 Merhaba, ben Batuhan ÖZKAN! 
+🚀 Yazılım geliştirme alanında bilgili ve tutkulu biriyim. 
+💻 Ana ilgi alanlarım arasında C#, ASP.NET, Entity Framework Core, React.js, JavaScript, HTML5 ve Bootstrap bulunmaktadır.
+🔍 Yeni teknolojileri öğrenmek ve uygulamak için hevesliyim. 
+🌟 Açık kaynaklı projelerde çalışmayı seviyorum ve Github hesabımda paylaşıyorum. 
+🤝 Takım çalışmasına uygun, proaktif ve sürekli kendini geliştiren biriyim. 
+👨‍💻 Github profilimdeki projelerimi keşfedin ve benimle bağlantı kurmak için çekinmeyin!
 
-<!--
-**batuhannozkann/batuhannozkann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, Batuhan Özkan! 
+🚀 I'm a knowledgeable and passionate software developer. 
+💻 My main interests include C#, ASP.NET, Entity Framework Core, React.js, JavaScript, HTML5, and Bootstrap.
+🔍 I'm eager to learn and implement new technologies. 
+🌟 I love working on open-source projects, which I share on my Github account. 
+🤝 I'm a team player, proactive, and constantly striving to improve myself. 
+👨‍💻 Check out the projects on my Github profile and feel free to connect with me!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
